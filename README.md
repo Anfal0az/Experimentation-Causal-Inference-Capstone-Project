@@ -5,7 +5,7 @@
 ## Overview
 
 This capstone asks: should **Injaz** — a fictional, synthetic Saudi digital-government
-services platform used for teaching purposes — launch a **"smart reminder"** (a push
+services platform — launch a **"smart reminder"** (a push
 notification / SMS nudge sent partway through a user's session) to help users finish the
 online service they started?
 
